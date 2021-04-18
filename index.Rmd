@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Fat Tail Risk of Pandemics"
 output: html_document
 ---
 
