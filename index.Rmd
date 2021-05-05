@@ -1,5 +1,5 @@
 ---
-title: "Fat Tail Risk of Pandemics"
+title: "Tail Risk of Pandemics"
 output: html_document
 ---
 
@@ -17,7 +17,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **Fat Tail Risk of Pandemics**
 
 This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
 
@@ -31,6 +31,9 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 
 4. Change everything to make it your own.
 
+5. Pareto Distribution PDF is as follows:
+  $$ y = f(y|\alpha) = \frac{x_m}{x^{\alpha-1}}$$
+
 
 </div>
 <div class="col-sm-6">
@@ -38,6 +41,6 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 ### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
 
 <a href = "https://crumplab.github.io">
-![](images/logo.png)
+![](images/pareto.svg)
 </a>
 </div>

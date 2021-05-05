@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Tail risk of Pandemics"
 navbar:
-  title: "MyLabJournal"
+  title: "Tail Risk of Pandemics"
   left:
     - text: "Home"
       href: index.html
